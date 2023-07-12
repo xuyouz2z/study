@@ -1,2 +1,2 @@
-str = 'Hello,xuyouz2z'
+str = "Hello,xuyouz2z"
 print(str)

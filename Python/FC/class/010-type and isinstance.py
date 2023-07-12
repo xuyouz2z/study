@@ -20,5 +20,5 @@ print(str(5e-19))
 print(type(False))
 
 # False是否属于bool类型
-print(isinstance(False,bool))
-print(isinstance(1,str))
+print(isinstance(False, bool))
+print(isinstance(1, str))

@@ -1,4 +1,4 @@
-x,y = 5,9
+x, y = 5, 9
 if x > y:
     print(x)
 else:
