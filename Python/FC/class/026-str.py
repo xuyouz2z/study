@@ -29,6 +29,7 @@ print(str1[str4:])
 str4 = str1.index("t")
 print(str4)
 
+#! 这里指的是只要是字符即可
 # 如果字符串中有一个字符，并且所有字符都是字母或数字，返回True，否则返回Fals
 # 如果字符串中有一个字符，并且所有字符都是字母，返回True，否则返回Fals
 str5 = str1.isalnum()
