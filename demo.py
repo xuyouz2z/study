@@ -1,2 +1,1 @@
-str = ""
-print(type(str))
+print(1 % 2)
