@@ -1,3 +1,4 @@
+# 十进制转二进制
 def ten2two(x):
     result = ""
     list1 = list()
