@@ -1,10 +1,5 @@
-def mFun(*param, base=3):
-    result = 0
-    for each in param:
-        result += each
+def hi():
+    return 1, 1.1, "hi", [1, 2]
 
-    result *= base
-   
-    print('结果是：', result)
 
-mFun(1, 2, 3, 4, 5, base=5)
+print(hi())
