@@ -9,3 +9,4 @@ str2 = str1.find("z2z")
 print(str1[str2:])
 # 检测str1是否包含str,不包含则返回-1
 print(str1.find("str"))
+print(str1.find("z2z", 0, 2))
